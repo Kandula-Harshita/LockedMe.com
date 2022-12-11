@@ -17,3 +17,10 @@ o	Features to accept the user input to select one of the options listed
 •	Navigation option to close the current context and return to the main context
 
 •	The Third option should be for closing the application
+
+Algorithms Used
+•	Used java Collections to collect the file names
+•	Use Collections.sort to sort the file names 
+•	Java.io.File to manage file operations.
+•	Used Exception handlers to catch the exceptions and supress them along with printing an error message.
+
